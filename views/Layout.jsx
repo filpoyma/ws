@@ -12,7 +12,7 @@ function Layout(props) {
             integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls"
             crossOrigin="anonymous"/>
       <link rel="stylesheet" href="/style.css"/>
-        <script defer src="/client.js"/>
+      <script defer src="/client.js"/>
     </head>
     <body>
     <div>
